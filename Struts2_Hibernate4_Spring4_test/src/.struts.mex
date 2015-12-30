@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Struts2Diagram version="2.0">
+  <package name="ssh" location="10,10" size="171,111">
+    <action name="base" location="15,23" size="150,40" />
+    <action name="test" location="5,66" size="150,40">
+      <result name="success">
+        <resourceEdge source="success" routing="0" target="success.jsp" />
+      </result>
+    </action>
+  </package>
+  <webResource name="success.jsp" path="/success.jsp" location="26,174" size="150,55" />
+</Struts2Diagram>
+
