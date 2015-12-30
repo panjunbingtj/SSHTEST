@@ -1,0 +1,8 @@
+/.struts.mex
+/Service/
+/applicationContext.xml
+/com/
+/controller/
+/hibernate.cfg.xml
+/orm/
+/struts.xml
